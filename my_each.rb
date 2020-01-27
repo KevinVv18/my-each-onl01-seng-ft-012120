@@ -6,6 +6,7 @@ def my_each(array)
     i = i + 1
   end
 else 
-  return my_each
+y_each
+end
 end
 
