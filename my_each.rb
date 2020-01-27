@@ -6,6 +6,7 @@ def my_each(num)
     yield (num[counter])
     counter+= 1 
   end 
+  my_each
   
   
  
