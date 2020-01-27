@@ -1,7 +1,8 @@
 def my_each(num)
   
+  counter= 0 
   
-  while
+  while counter < num.lenght
   
  
 end
