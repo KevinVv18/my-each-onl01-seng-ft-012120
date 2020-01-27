@@ -5,6 +5,7 @@ def my_each(num)
   while counter < num.lenght
     yield (num[counter])
     counter+= 1 
+  end 
   
  
 end
