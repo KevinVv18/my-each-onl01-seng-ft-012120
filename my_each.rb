@@ -1,9 +1,9 @@
 def my_each(num)
   
-  counter= 0 
+  i= 0 
   
-  while counter < num.lenght
-    yield (num[counter])
+  while i < num.lenght
+    yield (num[i])
     counter+= 1 
   end 
   my_each
