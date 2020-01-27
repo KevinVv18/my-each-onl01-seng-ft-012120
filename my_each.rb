@@ -6,7 +6,7 @@ def my_each(array)
     i = i + 1
   end
 else 
-y_each
+ array
 end
 end
 
